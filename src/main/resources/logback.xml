@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <appender name="stdout" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <!--配置时间，打印的格式-->
+            <pattern>%date{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n
+            </pattern>
+        </encoder>
+    </appender>
+
+    <appender name="rollingFile"
+              class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <!--配置文件地址，日志会以.log的格式存储在该路径下-->
+        <file>./logs/server.log</file>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <fileNamePattern>./logs/server.%d{yyyy-MM-dd}.%i.log
+            </fileNamePattern>
+            <timeBasedFileNamingAndTriggeringPolicy
+                    class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP">
+                <!--最大文件大小20M，一个文件超过20M就会加另外一个文件-->
+                <maxFileSize>20MB</maxFileSize>
+            </timeBasedFileNamingAndTriggeringPolicy>
+            <!--配置最大的文件数-->
+            <maxHistory>10</maxHistory>
+        </rollingPolicy>
+        <encoder>
+            <pattern>%date{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n
+            </pattern>
+        </encoder>
+    </appender>
+
+
+    <!--控制台-->
+    <appender name="async-stdout" class="ch.qos.logback.classic.AsyncAppender">
+        <appender-ref ref="stdout"/>
+        <includeCallerData>true</includeCallerData>
+    </appender>
+    <appender name="async-rollingFile" class="ch.qos.logback.classic.AsyncAppender">
+        <appender-ref ref="rollingFile"/>
+        <includeCallerData>true</includeCallerData>
+    </appender>
+
+    <logger name="org.quartz.impl.jdbcjobstore.JobStoreTX" level="INFO"/>
+    <logger name="org.quartz.impl.jdbcjobstore.StdRowLockSemaphore" level="INFO"/>
+    <logger name="org.springframework.amqp.rabbit.core.RabbitTemplate" level="INFO"/>
+    <logger name="org.springframework.amqp.rabbit.listener.BlockingQueueConsumer" level="INFO"/>
+
+    <!--日志打印级别-->
+    <root level="INFO">
+        <appender-ref ref="async-stdout"/>
+        <appender-ref ref="async-rollingFile"/>
+    </root>
+</configuration>

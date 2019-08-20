@@ -1,0 +1,1383 @@
+08:36:23.360 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 12128 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+08:36:23.362 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+08:36:24.099 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+08:36:24.112 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+08:36:24.117 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+08:36:24.117 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+08:36:24.197 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08:36:24.198 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 800 ms
+08:36:24.357 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08:36:24.482 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+08:36:24.504 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+08:36:24.507 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.436 seconds (JVM running for 2.275)
+08:37:59.022 [http-nio-8090-exec-3] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08:37:59.022 [http-nio-8090-exec-3] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08:37:59.028 [http-nio-8090-exec-3] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+09:00:38.452 [Thread-11] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+09:00:41.352 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 6716 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+09:00:41.354 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+09:00:42.068 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+09:00:42.080 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+09:00:42.086 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+09:00:42.086 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+09:00:42.167 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+09:00:42.167 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 783 ms
+09:00:42.336 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+09:00:42.453 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+09:00:42.472 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+09:00:42.477 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.406 seconds (JVM running for 2.135)
+09:01:59.281 [Thread-10] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+09:02:07.081 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 6552 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+09:02:07.083 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+09:02:07.798 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+09:02:07.810 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+09:02:07.816 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+09:02:07.816 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+09:02:07.892 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+09:02:07.892 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 780 ms
+09:02:08.051 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+09:02:08.177 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+09:02:08.195 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+09:02:08.197 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.404 seconds (JVM running for 2.146)
+09:02:37.628 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:02:37.628 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+09:02:37.633 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+09:03:59.233 [Thread-11] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+09:04:08.678 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 10400 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+09:04:08.684 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+09:04:09.316 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+09:04:09.324 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+09:04:09.330 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+09:04:09.330 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+09:04:09.396 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+09:04:09.396 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 682 ms
+09:04:09.531 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+09:04:09.664 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+09:04:09.684 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+09:04:09.687 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.312 seconds (JVM running for 1.896)
+09:04:59.767 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests], using SpringBootContextLoader
+09:04:59.771 [main] INFO  o.s.t.c.s.AbstractContextLoader - Could not detect default resource locations for test class [com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+09:04:59.772 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests]: SpringBootDemoApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+09:04:59.865 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.agan.springboot.springbootdemo.SpringBootDemoApplication for test class com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests
+09:04:59.938 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+09:04:59.948 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@394a2528, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@6236eb5f, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@7c1e2a9e, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@fa36558, org.springframework.test.context.support.DirtiesContextTestExecutionListener@672872e1, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@32910148, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@3f56875e, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@2b4bac49, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@fd07cbb, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@3571b748]
+09:05:00.189 [main] INFO  c.a.s.s.SpringBootDemoApplicationTests - Starting SpringBootDemoApplicationTests on DESKTOP-SCMIHF6 with PID 8468 (started by newer in E:\ideaDemoProject\spring-boot-demo)
+09:05:00.189 [main] INFO  c.a.s.s.SpringBootDemoApplicationTests - No active profile set, falling back to default profiles: default
+09:05:01.630 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+09:05:02.185 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+09:05:02.233 [main] INFO  c.a.s.s.SpringBootDemoApplicationTests - Started SpringBootDemoApplicationTests in 2.256 seconds (JVM running for 2.999)
+09:05:02.404 [Thread-6] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+09:05:22.559 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 8596 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+09:05:22.561 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+09:05:23.230 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+09:05:23.240 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+09:05:23.246 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+09:05:23.246 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+09:05:23.319 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+09:05:23.319 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 730 ms
+09:05:23.477 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+09:05:23.591 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+09:05:23.609 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+09:05:23.612 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.315 seconds (JVM running for 2.023)
+09:05:47.304 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:05:47.304 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+09:05:47.311 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+09:08:19.993 [Thread-10] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+09:08:23.065 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 11248 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+09:08:23.067 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+09:08:23.737 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+09:08:23.746 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+09:08:23.752 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+09:08:23.752 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+09:08:23.827 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+09:08:23.827 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 732 ms
+09:08:23.987 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+09:08:24.100 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+09:08:24.116 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+09:08:24.118 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.32 seconds (JVM running for 2.014)
+09:09:27.883 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:09:27.883 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+09:09:27.887 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+09:19:57.031 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests], using SpringBootContextLoader
+09:19:57.035 [main] INFO  o.s.t.c.s.AbstractContextLoader - Could not detect default resource locations for test class [com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+09:19:57.036 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests]: SpringBootDemoApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+09:19:57.133 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.agan.springboot.springbootdemo.SpringBootDemoApplication for test class com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests
+09:19:57.208 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+09:19:57.217 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@394a2528, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@6236eb5f, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@7c1e2a9e, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@fa36558, org.springframework.test.context.support.DirtiesContextTestExecutionListener@672872e1, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@32910148, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@3f56875e, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@2b4bac49, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@fd07cbb, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@3571b748]
+09:19:57.459 [main] INFO  c.a.s.s.SpringBootDemoApplicationTests - Starting SpringBootDemoApplicationTests on DESKTOP-SCMIHF6 with PID 11092 (started by newer in E:\ideaDemoProject\spring-boot-demo)
+09:19:57.460 [main] INFO  c.a.s.s.SpringBootDemoApplicationTests - No active profile set, falling back to default profiles: default
+09:19:58.828 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+09:19:59.420 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+09:19:59.465 [main] INFO  c.a.s.s.SpringBootDemoApplicationTests - Started SpringBootDemoApplicationTests in 2.223 seconds (JVM running for 2.908)
+09:19:59.628 [Thread-6] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+09:20:32.352 [Thread-10] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+09:20:36.153 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 12520 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+09:20:36.155 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+09:20:36.823 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+09:20:36.833 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+09:20:36.839 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+09:20:36.839 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+09:20:36.914 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+09:20:36.914 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 730 ms
+09:20:37.085 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+09:20:37.222 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+09:20:37.247 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+09:20:37.250 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.351 seconds (JVM running for 2.09)
+09:25:15.151 [Thread-10] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+09:25:53.719 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 10212 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+09:25:53.721 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+09:25:54.359 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+09:25:54.369 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+09:25:54.375 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+09:25:54.375 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+09:25:54.447 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+09:25:54.447 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 699 ms
+09:25:54.596 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+09:25:54.700 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+09:25:54.717 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+09:25:54.719 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.267 seconds (JVM running for 1.937)
+09:26:25.953 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:26:25.953 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+09:26:25.958 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+09:30:39.023 [Thread-10] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+09:30:41.961 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 5880 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+09:30:41.962 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+09:30:42.629 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+09:30:42.639 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+09:30:42.645 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+09:30:42.646 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+09:30:42.719 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+09:30:42.719 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 728 ms
+09:30:42.878 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+09:30:42.986 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+09:30:43.003 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+09:30:43.006 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.309 seconds (JVM running for 1.996)
+09:31:09.556 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:31:09.557 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+09:31:09.563 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+09:34:05.534 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 32 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+09:34:05.536 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+09:34:06.195 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+09:34:06.205 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+09:34:06.211 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+09:34:06.211 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+09:34:06.285 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+09:34:06.285 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 721 ms
+09:34:06.437 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+09:34:06.547 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+09:34:06.565 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+09:34:06.567 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.298 seconds (JVM running for 1.981)
+09:34:27.093 [http-nio-8090-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:34:27.093 [http-nio-8090-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+09:34:27.097 [http-nio-8090-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+09:44:22.851 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests], using SpringBootContextLoader
+09:44:22.855 [main] INFO  o.s.t.c.s.AbstractContextLoader - Could not detect default resource locations for test class [com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+09:44:22.856 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests]: SpringBootDemoApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+09:44:22.952 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.agan.springboot.springbootdemo.SpringBootDemoApplication for test class com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests
+09:44:23.026 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+09:44:23.035 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@394a2528, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@6236eb5f, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@7c1e2a9e, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@fa36558, org.springframework.test.context.support.DirtiesContextTestExecutionListener@672872e1, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@32910148, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@3f56875e, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@2b4bac49, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@fd07cbb, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@3571b748]
+09:44:23.265 [main] INFO  c.a.s.s.SpringBootDemoApplicationTests - Starting SpringBootDemoApplicationTests on DESKTOP-SCMIHF6 with PID 2568 (started by newer in E:\ideaDemoProject\spring-boot-demo)
+09:44:23.265 [main] INFO  c.a.s.s.SpringBootDemoApplicationTests - No active profile set, falling back to default profiles: default
+09:44:24.540 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+09:44:25.102 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+09:44:25.148 [main] INFO  c.a.s.s.SpringBootDemoApplicationTests - Started SpringBootDemoApplicationTests in 2.087 seconds (JVM running for 2.76)
+09:44:25.318 [Thread-6] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+09:44:37.203 [Thread-10] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+09:44:39.988 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 11188 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+09:44:39.989 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+09:44:40.632 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+09:44:40.642 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+09:44:40.648 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+09:44:40.648 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+09:44:40.721 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+09:44:40.721 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 705 ms
+09:44:40.869 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+09:44:40.975 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+09:44:40.991 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+09:44:40.993 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.252 seconds (JVM running for 1.907)
+09:45:11.979 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:45:11.979 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+09:45:11.983 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+09:46:20.531 [Thread-10] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+09:46:23.447 [main] ERROR o.s.boot.SpringApplication - Application run failed
+java.lang.IllegalStateException: Failed to load property source from location 'classpath:/application.yml'
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.load(ConfigFileApplicationListener.java:525)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.loadForFileExtension(ConfigFileApplicationListener.java:474)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.load(ConfigFileApplicationListener.java:444)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.lambda$null$6(ConfigFileApplicationListener.java:426)
+	at java.lang.Iterable.forEach(Iterable.java:75)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.lambda$load$7(ConfigFileApplicationListener.java:426)
+	at java.lang.Iterable.forEach(Iterable.java:75)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.load(ConfigFileApplicationListener.java:423)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.load(ConfigFileApplicationListener.java:322)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener.addPropertySources(ConfigFileApplicationListener.java:203)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener.postProcessEnvironment(ConfigFileApplicationListener.java:187)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener.onApplicationEnvironmentPreparedEvent(ConfigFileApplicationListener.java:177)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener.onApplicationEvent(ConfigFileApplicationListener.java:165)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:172)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:165)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:139)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:127)
+	at org.springframework.boot.context.event.EventPublishingRunListener.environmentPrepared(EventPublishingRunListener.java:76)
+	at org.springframework.boot.SpringApplicationRunListeners.environmentPrepared(SpringApplicationRunListeners.java:53)
+	at org.springframework.boot.SpringApplication.prepareEnvironment(SpringApplication.java:341)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:305)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1214)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1203)
+	at com.agan.springboot.springbootdemo.SpringBootDemoApplication.main(SpringBootDemoApplication.java:10)
+Caused by: org.yaml.snakeyaml.scanner.ScannerException: while scanning an alias
+ in 'reader', line 24, column 18:
+            include: *
+                     ^
+expected alphabetic or numeric character, but found  (0)
+ in 'reader', line 24, column 19:
+            include: *
+                      ^
+
+	at org.yaml.snakeyaml.scanner.ScannerImpl.scanAnchor(ScannerImpl.java:1444)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchAlias(ScannerImpl.java:916)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchMoreTokens(ScannerImpl.java:364)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:227)
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingValue.produce(ParserImpl.java:586)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158)
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:148)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:124)
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:236)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:227)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:215)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:144)
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:236)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:227)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:215)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:144)
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:236)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:227)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:215)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:144)
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:236)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:227)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:215)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:144)
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:236)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:227)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:215)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:144)
+	at org.yaml.snakeyaml.composer.Composer.getNode(Composer.java:85)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getData(BaseConstructor.java:123)
+	at org.yaml.snakeyaml.Yaml$1.next(Yaml.java:547)
+	at org.springframework.beans.factory.config.YamlProcessor.process(YamlProcessor.java:160)
+	at org.springframework.beans.factory.config.YamlProcessor.process(YamlProcessor.java:134)
+	at org.springframework.boot.env.OriginTrackedYamlLoader.load(OriginTrackedYamlLoader.java:75)
+	at org.springframework.boot.env.YamlPropertySourceLoader.load(YamlPropertySourceLoader.java:50)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.loadDocuments(ConfigFileApplicationListener.java:543)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.load(ConfigFileApplicationListener.java:498)
+	... 23 common frames omitted
+09:47:02.808 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 8620 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+09:47:02.810 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+09:47:03.457 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+09:47:03.467 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+09:47:03.473 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+09:47:03.473 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+09:47:03.547 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+09:47:03.548 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 711 ms
+09:47:03.703 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+09:47:03.814 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+09:47:03.831 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+09:47:03.833 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.279 seconds (JVM running for 1.955)
+09:47:13.863 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:47:13.863 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+09:47:13.867 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+09:47:22.240 [Thread-10] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+09:47:25.023 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 10768 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+09:47:25.025 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+09:47:25.683 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+09:47:25.693 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+09:47:25.699 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+09:47:25.699 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+09:47:25.771 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+09:47:25.771 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 719 ms
+09:47:25.918 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+09:47:26.031 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+09:47:26.048 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+09:47:26.050 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.286 seconds (JVM running for 1.941)
+09:47:32.961 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:47:32.961 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+09:47:32.966 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+09:48:26.951 [Thread-10] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+09:48:29.670 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 5816 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+09:48:29.672 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+09:48:30.309 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+09:48:30.318 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+09:48:30.324 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+09:48:30.324 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+09:48:30.398 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+09:48:30.398 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 697 ms
+09:48:30.551 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+09:48:30.660 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+09:48:30.677 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+09:48:30.678 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.258 seconds (JVM running for 1.914)
+09:48:43.136 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:48:43.136 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+09:48:43.139 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+09:50:47.429 [Thread-10] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+09:50:50.211 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 11632 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+09:50:50.212 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+09:50:50.844 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+09:50:50.853 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+09:50:50.860 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+09:50:50.860 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+09:50:50.931 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+09:50:50.931 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 691 ms
+09:50:51.080 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+09:50:51.186 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+09:50:51.203 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+09:50:51.205 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.244 seconds (JVM running for 1.9)
+09:51:24.452 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:51:24.452 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+09:51:24.456 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+09:52:11.429 [Thread-10] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+09:52:14.272 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 8460 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+09:52:14.273 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+09:52:14.929 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+09:52:14.939 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+09:52:14.946 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+09:52:14.946 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+09:52:15.019 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+09:52:15.019 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 718 ms
+09:52:15.176 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+09:52:15.287 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+09:52:15.305 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+09:52:15.307 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.299 seconds (JVM running for 1.976)
+09:52:29.315 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:52:29.315 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+09:52:29.319 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+09:52:37.816 [Thread-10] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+09:52:40.601 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 13060 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+09:52:40.603 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+09:52:41.263 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+09:52:41.272 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+09:52:41.279 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+09:52:41.279 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+09:52:41.353 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+09:52:41.353 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 719 ms
+09:52:41.505 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+09:52:41.613 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+09:52:41.630 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+09:52:41.633 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.293 seconds (JVM running for 1.958)
+09:52:53.224 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:52:53.224 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+09:52:53.230 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+09:54:20.046 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests], using SpringBootContextLoader
+09:54:20.051 [main] INFO  o.s.t.c.s.AbstractContextLoader - Could not detect default resource locations for test class [com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+09:54:20.052 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests]: SpringBootDemoApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+09:54:20.148 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.agan.springboot.springbootdemo.SpringBootDemoApplication for test class com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests
+09:54:20.222 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+09:54:20.231 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@394a2528, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@6236eb5f, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@7c1e2a9e, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@fa36558, org.springframework.test.context.support.DirtiesContextTestExecutionListener@672872e1, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@32910148, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@3f56875e, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@2b4bac49, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@fd07cbb, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@3571b748]
+09:54:20.465 [main] INFO  c.a.s.s.SpringBootDemoApplicationTests - Starting SpringBootDemoApplicationTests on DESKTOP-SCMIHF6 with PID 12664 (started by newer in E:\ideaDemoProject\spring-boot-demo)
+09:54:20.465 [main] INFO  c.a.s.s.SpringBootDemoApplicationTests - No active profile set, falling back to default profiles: default
+09:54:21.861 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+09:54:22.392 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+09:54:22.438 [main] INFO  c.a.s.s.SpringBootDemoApplicationTests - Started SpringBootDemoApplicationTests in 2.181 seconds (JVM running for 2.875)
+09:54:22.613 [Thread-6] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+09:54:37.260 [Thread-10] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+09:54:39.559 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 10644 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+09:54:39.562 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+09:54:40.151 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+09:54:40.159 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+09:54:40.165 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+09:54:40.165 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+09:54:40.229 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+09:54:40.229 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 642 ms
+09:54:40.357 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+09:54:40.450 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+09:54:40.465 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+09:54:40.467 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.153 seconds (JVM running for 1.694)
+09:55:32.480 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests], using SpringBootContextLoader
+09:55:32.484 [main] INFO  o.s.t.c.s.AbstractContextLoader - Could not detect default resource locations for test class [com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+09:55:32.485 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests]: SpringBootDemoApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+09:55:32.584 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.agan.springboot.springbootdemo.SpringBootDemoApplication for test class com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests
+09:55:32.659 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+09:55:32.669 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@394a2528, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@6236eb5f, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@7c1e2a9e, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@fa36558, org.springframework.test.context.support.DirtiesContextTestExecutionListener@672872e1, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@32910148, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@3f56875e, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@2b4bac49, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@fd07cbb, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@3571b748]
+09:55:32.914 [main] INFO  c.a.s.s.SpringBootDemoApplicationTests - Starting SpringBootDemoApplicationTests on DESKTOP-SCMIHF6 with PID 10960 (started by newer in E:\ideaDemoProject\spring-boot-demo)
+09:55:32.914 [main] INFO  c.a.s.s.SpringBootDemoApplicationTests - No active profile set, falling back to default profiles: default
+09:55:34.254 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+09:55:34.830 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+09:55:34.875 [main] INFO  c.a.s.s.SpringBootDemoApplicationTests - Started SpringBootDemoApplicationTests in 2.178 seconds (JVM running for 2.86)
+09:55:35.083 [Thread-6] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+09:55:45.503 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 640 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+09:55:45.505 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+09:55:46.106 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+09:55:46.115 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+09:55:46.120 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+09:55:46.120 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+09:55:46.185 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+09:55:46.185 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 650 ms
+09:55:46.311 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+09:55:46.404 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+09:55:46.419 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+09:55:46.421 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.177 seconds (JVM running for 1.723)
+09:55:58.064 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:55:58.064 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+09:55:58.068 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+10:00:20.195 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 7992 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+10:00:20.197 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+10:00:20.863 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+10:00:20.873 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+10:00:20.879 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+10:00:20.879 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+10:00:20.956 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+10:00:20.957 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 732 ms
+10:00:21.111 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+10:00:21.222 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+10:00:21.240 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+10:00:21.242 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.311 seconds (JVM running for 2.006)
+10:01:33.405 [Thread-10] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+10:02:12.563 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 2132 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+10:02:12.564 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+10:02:13.407 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+10:02:13.417 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+10:02:13.423 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+10:02:13.423 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+10:02:13.502 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+10:02:13.502 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 911 ms
+10:02:13.836 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+10:02:14.083 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+10:02:14.115 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+10:02:14.132 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+10:02:14.134 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.837 seconds (JVM running for 2.81)
+10:02:14.499 [RMI TCP Connection(2)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:02:14.499 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+10:02:14.504 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+10:12:22.790 [Thread-11] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+10:12:26.569 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 9236 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+10:12:26.570 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+10:12:27.406 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+10:12:27.415 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+10:12:27.421 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+10:12:27.421 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+10:12:27.497 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+10:12:27.497 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 899 ms
+10:12:27.820 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+10:12:28.043 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+10:12:28.075 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+10:12:28.092 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+10:12:28.095 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.784 seconds (JVM running for 2.466)
+10:12:28.245 [RMI TCP Connection(4)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:12:28.245 [RMI TCP Connection(4)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+10:12:28.251 [RMI TCP Connection(4)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+10:13:58.851 [Thread-11] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+10:14:01.687 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 12636 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+10:14:01.688 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+10:14:02.532 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+10:14:02.541 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+10:14:02.547 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+10:14:02.548 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+10:14:02.623 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+10:14:02.623 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 907 ms
+10:14:02.955 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+10:14:03.171 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 0 endpoint(s) beneath base path '/actuator'
+10:14:03.202 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+10:14:03.219 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+10:14:03.222 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.792 seconds (JVM running for 2.484)
+10:14:03.331 [RMI TCP Connection(4)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:14:03.332 [RMI TCP Connection(4)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+10:14:03.337 [RMI TCP Connection(4)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+10:14:28.839 [Thread-11] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+10:14:31.697 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 3964 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+10:14:31.699 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+10:14:32.550 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+10:14:32.561 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+10:14:32.567 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+10:14:32.567 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+10:14:32.646 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+10:14:32.647 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 918 ms
+10:14:32.996 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+10:14:33.226 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 15 endpoint(s) beneath base path '/actuator'
+10:14:33.260 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+10:14:33.278 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+10:14:33.280 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.849 seconds (JVM running for 2.561)
+10:14:33.337 [RMI TCP Connection(5)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:14:33.337 [RMI TCP Connection(5)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+10:14:33.342 [RMI TCP Connection(5)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+10:21:28.150 [Thread-11] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+10:21:30.986 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 1656 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+10:21:30.987 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+10:21:31.829 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+10:21:31.839 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+10:21:31.845 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+10:21:31.845 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+10:21:31.921 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+10:21:31.921 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 906 ms
+10:21:32.256 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+10:21:32.481 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 16 endpoint(s) beneath base path '/actuator'
+10:21:32.518 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+10:21:32.535 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+10:21:32.538 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.81 seconds (JVM running for 2.495)
+10:21:32.631 [RMI TCP Connection(2)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:21:32.631 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+10:21:32.636 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+10:21:40.180 [Thread-11] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+10:21:46.055 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests], using SpringBootContextLoader
+10:21:46.060 [main] INFO  o.s.t.c.s.AbstractContextLoader - Could not detect default resource locations for test class [com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+10:21:46.061 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests]: SpringBootDemoApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+10:21:46.167 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.agan.springboot.springbootdemo.SpringBootDemoApplication for test class com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests
+10:21:46.269 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+10:21:46.284 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@139982de, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@682b2fa, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@217ed35e, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@7dcf94f8, org.springframework.test.context.support.DirtiesContextTestExecutionListener@229f66ed, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@31190526, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@662ac478, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@6743e411, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@3eb25e1a, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@477b4cdf]
+10:21:46.563 [main] INFO  c.a.s.s.SpringBootDemoApplicationTests - Starting SpringBootDemoApplicationTests on DESKTOP-SCMIHF6 with PID 9708 (started by newer in E:\ideaDemoProject\spring-boot-demo)
+10:21:46.564 [main] INFO  c.a.s.s.SpringBootDemoApplicationTests - No active profile set, falling back to default profiles: default
+10:21:47.898 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+10:21:48.492 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 16 endpoint(s) beneath base path '/actuator'
+10:21:48.541 [main] INFO  c.a.s.s.SpringBootDemoApplicationTests - Started SpringBootDemoApplicationTests in 2.203 seconds (JVM running for 3.047)
+10:21:48.689 [Thread-6] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+10:21:57.847 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 12948 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+10:21:57.848 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+10:21:58.614 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+10:21:58.621 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+10:21:58.626 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+10:21:58.626 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+10:21:58.694 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+10:21:58.694 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 821 ms
+10:21:58.976 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+10:21:59.166 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 16 endpoint(s) beneath base path '/actuator'
+10:21:59.201 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+10:21:59.218 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+10:21:59.220 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.631 seconds (JVM running for 2.181)
+10:21:59.606 [RMI TCP Connection(2)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:21:59.606 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+10:21:59.611 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+10:49:42.638 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 12980 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+10:49:42.640 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+10:49:43.463 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+10:49:43.472 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+10:49:43.477 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+10:49:43.477 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+10:49:43.552 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+10:49:43.552 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 886 ms
+10:49:43.844 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+10:49:44.035 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 7 endpoint(s) beneath base path '/actuator'
+10:49:44.064 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+10:49:44.078 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+10:49:44.080 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.714 seconds (JVM running for 2.266)
+10:49:59.120 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:49:59.121 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+10:49:59.124 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+10:50:31.753 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 8148 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+10:50:31.755 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+10:50:32.525 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+10:50:32.534 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+10:50:32.539 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+10:50:32.539 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+10:50:32.607 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+10:50:32.607 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 825 ms
+10:50:32.893 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+10:50:33.084 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 7 endpoint(s) beneath base path '/actuator'
+10:50:33.113 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+10:50:33.127 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+10:50:33.130 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.659 seconds (JVM running for 2.211)
+10:50:41.657 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:50:41.657 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+10:50:41.661 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+11:00:57.711 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 3836 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+11:00:57.714 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+11:00:58.468 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+11:00:58.476 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+11:00:58.481 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+11:00:58.481 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+11:00:58.548 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+11:00:58.548 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 807 ms
+11:00:58.833 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+11:00:59.021 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 16 endpoint(s) beneath base path '/actuator'
+11:00:59.051 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+11:00:59.066 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+11:00:59.068 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.614 seconds (JVM running for 2.178)
+11:01:11.509 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+11:01:11.509 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+11:01:11.513 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+14:30:07.648 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests], using SpringBootContextLoader
+14:30:07.652 [main] INFO  o.s.t.c.s.AbstractContextLoader - Could not detect default resource locations for test class [com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+14:30:07.653 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests]: SpringBootDemoApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+14:30:07.744 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.agan.springboot.springbootdemo.SpringBootDemoApplication for test class com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests
+14:30:07.820 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+14:30:07.829 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@484970b0, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@4470f8a6, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@7c83dc97, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@7748410a, org.springframework.test.context.support.DirtiesContextTestExecutionListener@740773a3, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@37f1104d, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@55740540, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@60015ef5, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@2f54a33d, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@1018bde2]
+14:30:08.070 [main] INFO  c.a.s.s.SpringBootDemoApplicationTests - Starting SpringBootDemoApplicationTests on DESKTOP-SCMIHF6 with PID 564 (started by newer in E:\ideaDemoProject\spring-boot-demo)
+14:30:08.070 [main] INFO  c.a.s.s.SpringBootDemoApplicationTests - No active profile set, falling back to default profiles: default
+14:30:09.504 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+14:30:10.064 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 17 endpoint(s) beneath base path '/actuator'
+14:30:10.115 [main] INFO  c.a.s.s.SpringBootDemoApplicationTests - Started SpringBootDemoApplicationTests in 2.259 seconds (JVM running for 3.002)
+14:30:10.283 [Thread-6] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+14:37:17.718 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 2924 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+14:37:17.720 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+14:37:18.609 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+14:37:18.620 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+14:37:18.626 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+14:37:18.627 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+14:37:18.711 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+14:37:18.712 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 963 ms
+14:37:19.076 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+14:37:19.296 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 16 endpoint(s) beneath base path '/actuator'
+14:37:19.332 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+14:37:19.350 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+14:37:19.353 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.926 seconds (JVM running for 2.638)
+14:37:47.381 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+14:37:47.382 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+14:37:47.386 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+14:40:03.697 [Thread-12] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+14:40:06.539 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 11660 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+14:40:06.541 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+14:40:07.384 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+14:40:07.394 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+14:40:07.400 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+14:40:07.401 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+14:40:07.481 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+14:40:07.481 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 912 ms
+14:40:07.835 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+14:40:08.055 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 16 endpoint(s) beneath base path '/actuator'
+14:40:08.089 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+14:40:08.106 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+14:40:08.108 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.83 seconds (JVM running for 2.519)
+14:42:14.718 [Thread-11] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+14:42:17.565 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 12052 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+14:42:17.566 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+14:42:18.458 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+14:42:18.470 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+14:42:18.476 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+14:42:18.476 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+14:42:18.559 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+14:42:18.559 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 963 ms
+14:42:18.929 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+14:42:19.146 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 16 endpoint(s) beneath base path '/actuator'
+14:42:19.183 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+14:42:19.201 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+14:42:19.203 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.914 seconds (JVM running for 2.631)
+14:44:02.731 [Thread-12] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+14:44:20.356 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests], using SpringBootContextLoader
+14:44:20.362 [main] INFO  o.s.t.c.s.AbstractContextLoader - Could not detect default resource locations for test class [com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+14:44:20.363 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests]: SpringBootDemoApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+14:44:20.457 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.agan.springboot.springbootdemo.SpringBootDemoApplication for test class com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests
+14:44:20.531 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+14:44:20.540 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@484970b0, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@4470f8a6, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@7c83dc97, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@7748410a, org.springframework.test.context.support.DirtiesContextTestExecutionListener@740773a3, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@37f1104d, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@55740540, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@60015ef5, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@2f54a33d, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@1018bde2]
+14:44:20.782 [main] INFO  c.a.s.s.SpringBootDemoApplicationTests - Starting SpringBootDemoApplicationTests on DESKTOP-SCMIHF6 with PID 5748 (started by newer in E:\ideaDemoProject\spring-boot-demo)
+14:44:20.783 [main] INFO  c.a.s.s.SpringBootDemoApplicationTests - No active profile set, falling back to default profiles: default
+14:44:22.171 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+14:44:22.669 [main] INFO  o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService
+14:44:22.767 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 17 endpoint(s) beneath base path '/actuator'
+14:44:22.823 [main] INFO  c.a.s.s.SpringBootDemoApplicationTests - Started SpringBootDemoApplicationTests in 2.257 seconds (JVM running for 2.926)
+14:44:22.835 [registrationTask1] ERROR o.s.s.s.TaskUtils$LoggingErrorHandler - Unexpected error occurred in scheduled task.
+java.lang.IllegalStateException: couldn't determine local port. Please set spring.boot.admin.client.instance.service-base-url.
+	at de.codecentric.boot.admin.client.registration.DefaultApplicationFactory.getLocalServerPort(DefaultApplicationFactory.java:189)
+	at de.codecentric.boot.admin.client.registration.DefaultApplicationFactory.getServiceBaseUrl(DefaultApplicationFactory.java:104)
+	at de.codecentric.boot.admin.client.registration.ServletApplicationFactory.getServiceUrl(ServletApplicationFactory.java:62)
+	at de.codecentric.boot.admin.client.registration.ServletApplicationFactory.getManagementBaseUrl(ServletApplicationFactory.java:77)
+	at de.codecentric.boot.admin.client.registration.DefaultApplicationFactory.getHealthUrl(DefaultApplicationFactory.java:150)
+	at de.codecentric.boot.admin.client.registration.DefaultApplicationFactory.createApplication(DefaultApplicationFactory.java:75)
+	at de.codecentric.boot.admin.client.registration.ApplicationRegistrator.createApplication(ApplicationRegistrator.java:154)
+	at de.codecentric.boot.admin.client.registration.ApplicationRegistrator.register(ApplicationRegistrator.java:71)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+14:44:22.999 [Thread-6] INFO  o.s.s.c.ThreadPoolTaskScheduler - Shutting down ExecutorService
+14:44:23.000 [Thread-6] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+14:44:55.047 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 12764 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+14:44:55.049 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+14:44:55.903 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+14:44:55.913 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+14:44:55.919 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+14:44:55.920 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+14:44:55.996 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+14:44:55.996 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 920 ms
+14:44:56.339 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+14:44:56.559 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 16 endpoint(s) beneath base path '/actuator'
+14:44:56.596 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+14:44:56.614 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+14:44:56.616 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.835 seconds (JVM running for 2.513)
+14:45:09.144 [http-nio-8090-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+14:45:09.144 [http-nio-8090-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+14:45:09.149 [http-nio-8090-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+14:52:11.341 [Thread-11] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+14:52:19.303 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 14088 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+14:52:19.305 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+14:52:20.145 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+14:52:20.155 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+14:52:20.162 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+14:52:20.162 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+14:52:20.241 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+14:52:20.241 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 910 ms
+14:52:20.597 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+14:52:20.803 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 16 endpoint(s) beneath base path '/actuator'
+14:52:20.838 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+14:52:20.855 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+14:52:20.857 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.826 seconds (JVM running for 2.508)
+14:52:42.145 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+14:52:42.145 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+14:52:42.150 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+14:53:54.541 [Thread-11] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+14:54:29.844 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 6940 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+14:54:29.846 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+14:54:30.689 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+14:54:30.699 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+14:54:30.706 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+14:54:30.706 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+14:54:30.785 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+14:54:30.785 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 911 ms
+14:54:31.137 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+14:54:31.342 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 16 endpoint(s) beneath base path '/actuator'
+14:54:31.378 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+14:54:31.395 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+14:54:31.397 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.817 seconds (JVM running for 2.507)
+14:55:01.657 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+14:55:01.657 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+14:55:01.662 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+14:57:42.653 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests], using SpringBootContextLoader
+14:57:42.658 [main] INFO  o.s.t.c.s.AbstractContextLoader - Could not detect default resource locations for test class [com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+14:57:42.658 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests]: SpringBootDemoApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+14:57:42.755 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.agan.springboot.springbootdemo.SpringBootDemoApplication for test class com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests
+14:57:42.830 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+14:57:42.839 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@484970b0, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@4470f8a6, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@7c83dc97, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@7748410a, org.springframework.test.context.support.DirtiesContextTestExecutionListener@740773a3, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@37f1104d, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@55740540, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@60015ef5, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@2f54a33d, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@1018bde2]
+14:57:43.079 [main] INFO  c.a.s.s.SpringBootDemoApplicationTests - Starting SpringBootDemoApplicationTests on DESKTOP-SCMIHF6 with PID 4904 (started by newer in E:\ideaDemoProject\spring-boot-demo)
+14:57:43.079 [main] INFO  c.a.s.s.SpringBootDemoApplicationTests - No active profile set, falling back to default profiles: default
+14:57:44.514 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+14:57:45.053 [main] INFO  o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService
+14:57:45.146 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 17 endpoint(s) beneath base path '/actuator'
+14:57:45.197 [main] INFO  c.a.s.s.SpringBootDemoApplicationTests - Started SpringBootDemoApplicationTests in 2.332 seconds (JVM running for 3.046)
+14:57:45.209 [registrationTask1] ERROR o.s.s.s.TaskUtils$LoggingErrorHandler - Unexpected error occurred in scheduled task.
+java.lang.IllegalStateException: couldn't determine local port. Please set spring.boot.admin.client.instance.service-base-url.
+	at de.codecentric.boot.admin.client.registration.DefaultApplicationFactory.getLocalServerPort(DefaultApplicationFactory.java:189)
+	at de.codecentric.boot.admin.client.registration.DefaultApplicationFactory.getServiceBaseUrl(DefaultApplicationFactory.java:104)
+	at de.codecentric.boot.admin.client.registration.ServletApplicationFactory.getServiceUrl(ServletApplicationFactory.java:62)
+	at de.codecentric.boot.admin.client.registration.ServletApplicationFactory.getManagementBaseUrl(ServletApplicationFactory.java:77)
+	at de.codecentric.boot.admin.client.registration.DefaultApplicationFactory.getHealthUrl(DefaultApplicationFactory.java:150)
+	at de.codecentric.boot.admin.client.registration.DefaultApplicationFactory.createApplication(DefaultApplicationFactory.java:75)
+	at de.codecentric.boot.admin.client.registration.ApplicationRegistrator.createApplication(ApplicationRegistrator.java:154)
+	at de.codecentric.boot.admin.client.registration.ApplicationRegistrator.register(ApplicationRegistrator.java:71)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+14:57:45.390 [Thread-6] INFO  o.s.s.c.ThreadPoolTaskScheduler - Shutting down ExecutorService
+14:57:45.391 [Thread-6] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+14:58:03.714 [Thread-11] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+14:58:07.407 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 14016 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+14:58:07.409 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+14:58:08.238 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+14:58:08.249 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+14:58:08.255 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+14:58:08.255 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+14:58:08.330 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+14:58:08.330 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 894 ms
+14:58:08.693 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+14:58:08.991 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 16 endpoint(s) beneath base path '/actuator'
+14:58:09.027 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+14:58:09.045 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+14:58:09.047 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.891 seconds (JVM running for 2.561)
+14:58:19.489 [http-nio-8090-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+14:58:19.489 [http-nio-8090-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+14:58:19.495 [http-nio-8090-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+15:00:13.458 [Thread-11] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+15:00:16.333 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 12460 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+15:00:16.335 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+15:00:17.173 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+15:00:17.183 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+15:00:17.190 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+15:00:17.190 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+15:00:17.269 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+15:00:17.269 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 906 ms
+15:00:17.620 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+15:00:17.838 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 16 endpoint(s) beneath base path '/actuator'
+15:00:17.873 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+15:00:17.891 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+15:00:17.893 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.82 seconds (JVM running for 2.514)
+15:00:30.246 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+15:00:30.246 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+15:00:30.251 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+15:01:41.255 [Thread-11] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+15:01:44.225 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 14448 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+15:01:44.227 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+15:01:45.138 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+15:01:45.150 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+15:01:45.155 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+15:01:45.156 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+15:01:45.235 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+15:01:45.235 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 980 ms
+15:01:45.586 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+15:01:45.808 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 16 endpoint(s) beneath base path '/actuator'
+15:01:45.847 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+15:01:45.866 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+15:01:45.869 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.919 seconds (JVM running for 2.662)
+15:01:53.050 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+15:01:53.050 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+15:01:53.055 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+15:06:33.644 [Thread-12] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+15:06:36.429 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 84 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+15:06:36.431 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+15:06:37.269 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+15:06:37.279 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+15:06:37.285 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+15:06:37.285 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+15:06:37.364 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+15:06:37.364 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 905 ms
+15:06:37.711 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+15:06:37.928 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 16 endpoint(s) beneath base path '/actuator'
+15:06:37.963 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+15:06:37.979 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+15:06:37.982 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.812 seconds (JVM running for 2.49)
+15:06:53.087 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+15:06:53.087 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+15:06:53.091 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+15:11:32.168 [Thread-11] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+15:11:35.051 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 9364 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+15:11:35.053 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+15:11:35.889 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+15:11:35.898 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+15:11:35.904 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+15:11:35.904 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+15:11:35.980 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+15:11:35.980 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 899 ms
+15:11:36.322 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+15:11:36.557 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 16 endpoint(s) beneath base path '/actuator'
+15:11:36.595 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+15:11:36.613 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+15:11:36.615 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.831 seconds (JVM running for 2.537)
+15:11:36.672 [RMI TCP Connection(2)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+15:11:36.672 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+15:11:36.677 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+15:12:51.823 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 7948 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+15:12:51.824 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+15:12:52.651 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+15:12:52.661 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+15:12:52.667 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+15:12:52.667 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+15:12:52.742 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+15:12:52.742 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 889 ms
+15:12:53.074 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+15:12:53.290 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 16 endpoint(s) beneath base path '/actuator'
+15:12:53.325 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+15:12:53.342 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+15:12:53.344 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.777 seconds (JVM running for 2.449)
+15:13:00.729 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+15:13:00.729 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+15:13:00.734 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+15:13:18.891 [Thread-11] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+15:13:21.749 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 14572 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+15:13:21.751 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+15:13:22.604 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+15:13:22.614 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+15:13:22.619 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+15:13:22.620 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+15:13:22.695 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+15:13:22.696 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 916 ms
+15:13:23.038 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+15:13:23.254 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 15 endpoint(s) beneath base path '/actuator'
+15:13:23.290 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+15:13:23.306 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+15:13:23.309 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.834 seconds (JVM running for 2.54)
+15:13:23.396 [RMI TCP Connection(2)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+15:13:23.396 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+15:13:23.401 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+15:14:41.601 [Thread-11] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+15:14:44.418 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 14940 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+15:14:44.420 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+15:14:45.262 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+15:14:45.272 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+15:14:45.278 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+15:14:45.278 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+15:14:45.357 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+15:14:45.357 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 908 ms
+15:14:45.604 [main] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'helloWordController': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'agan.msg' in value "${agan.msg}"
+15:14:45.606 [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+15:14:45.617 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+15:14:45.624 [main] ERROR o.s.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'helloWordController': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'agan.msg' in value "${agan.msg}"
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:380)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1411)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:592)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:515)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:845)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:877)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:549)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:141)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:743)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:390)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:312)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1214)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1203)
+	at com.agan.springboot.springbootdemo.SpringBootDemoApplication.main(SpringBootDemoApplication.java:10)
+Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'agan.msg' in value "${agan.msg}"
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:178)
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:124)
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:237)
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:211)
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:175)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:851)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1192)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1171)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:593)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:90)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:374)
+	... 17 common frames omitted
+15:15:25.569 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 10864 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+15:15:25.571 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+15:15:26.432 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+15:15:26.441 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+15:15:26.447 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+15:15:26.447 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+15:15:26.522 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+15:15:26.522 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 924 ms
+15:15:26.848 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+15:15:27.069 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 15 endpoint(s) beneath base path '/actuator'
+15:15:27.104 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+15:15:27.121 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+15:15:27.123 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.811 seconds (JVM running for 2.511)
+15:15:27.315 [RMI TCP Connection(4)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+15:15:27.315 [RMI TCP Connection(4)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+15:15:27.320 [RMI TCP Connection(4)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+15:22:39.575 [Thread-11] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+15:22:42.386 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 4116 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+15:22:42.388 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+15:22:43.217 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+15:22:43.227 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+15:22:43.233 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+15:22:43.233 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+15:22:43.310 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+15:22:43.311 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 894 ms
+15:22:43.650 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+15:22:43.858 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 15 endpoint(s) beneath base path '/actuator'
+15:22:43.894 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+15:22:43.911 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+15:22:43.913 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.783 seconds (JVM running for 2.47)
+15:22:44.079 [RMI TCP Connection(2)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+15:22:44.079 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+15:22:44.084 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+15:25:55.403 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 1284 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+15:25:55.405 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+15:25:56.228 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+15:25:56.238 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+15:25:56.244 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+15:25:56.244 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+15:25:56.322 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+15:25:56.322 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 889 ms
+15:25:56.665 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+15:25:56.873 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 15 endpoint(s) beneath base path '/actuator'
+15:25:56.908 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+15:25:56.924 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+15:25:56.927 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.783 seconds (JVM running for 2.467)
+15:25:57.082 [RMI TCP Connection(5)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+15:25:57.083 [RMI TCP Connection(5)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+15:25:57.088 [RMI TCP Connection(5)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+15:30:14.039 [Thread-11] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+15:30:16.794 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 5748 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+15:30:16.795 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+15:30:17.613 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+15:30:17.622 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+15:30:17.628 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+15:30:17.628 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+15:30:17.701 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+15:30:17.701 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 878 ms
+15:30:18.016 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+15:30:18.252 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 15 endpoint(s) beneath base path '/actuator'
+15:30:18.295 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+15:30:18.320 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+15:30:18.322 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.773 seconds (JVM running for 2.431)
+15:30:18.494 [RMI TCP Connection(4)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+15:30:18.494 [RMI TCP Connection(4)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+15:30:18.502 [RMI TCP Connection(4)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+15:33:54.311 [Thread-11] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+15:33:57.191 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 8920 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+15:33:57.193 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+15:33:58.027 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+15:33:58.037 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+15:33:58.043 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+15:33:58.043 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+15:33:58.122 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+15:33:58.123 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 900 ms
+15:33:58.469 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+15:33:58.691 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 15 endpoint(s) beneath base path '/actuator'
+15:33:58.727 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+15:33:58.745 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+15:33:58.747 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.811 seconds (JVM running for 2.514)
+15:33:58.842 [RMI TCP Connection(4)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+15:33:58.842 [RMI TCP Connection(4)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+15:33:58.848 [RMI TCP Connection(4)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+15:43:51.677 [Thread-11] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+15:45:36.615 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests], using SpringBootContextLoader
+15:45:36.620 [main] INFO  o.s.t.c.s.AbstractContextLoader - Could not detect default resource locations for test class [com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+15:45:36.621 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests]: SpringBootDemoApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+15:45:36.712 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.agan.springboot.springbootdemo.SpringBootDemoApplication for test class com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests
+15:45:36.785 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+15:45:36.794 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@3e6ef8ad, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@346d61be, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@55536d9e, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@747edf66, org.springframework.test.context.support.DirtiesContextTestExecutionListener@3d1cfad4, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@62230c58, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@2cd2a21f, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@2e55dd0c, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@74455848, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@e7edb54]
+15:45:37.023 [main] INFO  c.a.s.s.SpringBootDemoApplicationTests - Starting SpringBootDemoApplicationTests on DESKTOP-SCMIHF6 with PID 6640 (started by newer in E:\ideaDemoProject\spring-boot-demo)
+15:45:37.023 [main] INFO  c.a.s.s.SpringBootDemoApplicationTests - No active profile set, falling back to default profiles: default
+15:45:38.280 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+15:45:38.920 [main] INFO  o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService
+15:45:39.010 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 16 endpoint(s) beneath base path '/actuator'
+15:45:39.062 [main] INFO  c.a.s.s.SpringBootDemoApplicationTests - Started SpringBootDemoApplicationTests in 2.242 seconds (JVM running for 2.937)
+15:45:39.074 [registrationTask1] ERROR o.s.s.s.TaskUtils$LoggingErrorHandler - Unexpected error occurred in scheduled task.
+java.lang.IllegalStateException: couldn't determine local port. Please set spring.boot.admin.client.instance.service-base-url.
+	at de.codecentric.boot.admin.client.registration.DefaultApplicationFactory.getLocalServerPort(DefaultApplicationFactory.java:189)
+	at de.codecentric.boot.admin.client.registration.DefaultApplicationFactory.getServiceBaseUrl(DefaultApplicationFactory.java:104)
+	at de.codecentric.boot.admin.client.registration.ServletApplicationFactory.getServiceUrl(ServletApplicationFactory.java:62)
+	at de.codecentric.boot.admin.client.registration.ServletApplicationFactory.getManagementBaseUrl(ServletApplicationFactory.java:77)
+	at de.codecentric.boot.admin.client.registration.DefaultApplicationFactory.getHealthUrl(DefaultApplicationFactory.java:150)
+	at de.codecentric.boot.admin.client.registration.DefaultApplicationFactory.createApplication(DefaultApplicationFactory.java:75)
+	at de.codecentric.boot.admin.client.registration.ApplicationRegistrator.createApplication(ApplicationRegistrator.java:154)
+	at de.codecentric.boot.admin.client.registration.ApplicationRegistrator.register(ApplicationRegistrator.java:71)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+15:45:39.227 [Thread-6] INFO  o.s.s.c.ThreadPoolTaskScheduler - Shutting down ExecutorService
+15:45:39.228 [Thread-6] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+15:45:58.391 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests], using SpringBootContextLoader
+15:45:58.395 [main] INFO  o.s.t.c.s.AbstractContextLoader - Could not detect default resource locations for test class [com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+15:45:58.396 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests]: SpringBootDemoApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+15:45:58.484 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.agan.springboot.springbootdemo.SpringBootDemoApplication for test class com.agan.springboot.springbootdemo.SpringBootDemoApplicationTests
+15:45:58.555 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+15:45:58.564 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@3e6ef8ad, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@346d61be, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@55536d9e, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@747edf66, org.springframework.test.context.support.DirtiesContextTestExecutionListener@3d1cfad4, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@62230c58, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@2cd2a21f, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@2e55dd0c, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@74455848, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@e7edb54]
+15:45:58.793 [main] INFO  c.a.s.s.SpringBootDemoApplicationTests - Starting SpringBootDemoApplicationTests on DESKTOP-SCMIHF6 with PID 13928 (started by newer in E:\ideaDemoProject\spring-boot-demo)
+15:45:58.794 [main] INFO  c.a.s.s.SpringBootDemoApplicationTests - No active profile set, falling back to default profiles: default
+15:46:00.000 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+15:46:00.620 [main] INFO  o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService
+15:46:00.710 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 16 endpoint(s) beneath base path '/actuator'
+15:46:00.760 [main] INFO  c.a.s.s.SpringBootDemoApplicationTests - Started SpringBootDemoApplicationTests in 2.171 seconds (JVM running for 2.856)
+15:46:00.770 [registrationTask1] ERROR o.s.s.s.TaskUtils$LoggingErrorHandler - Unexpected error occurred in scheduled task.
+java.lang.IllegalStateException: couldn't determine local port. Please set spring.boot.admin.client.instance.service-base-url.
+	at de.codecentric.boot.admin.client.registration.DefaultApplicationFactory.getLocalServerPort(DefaultApplicationFactory.java:189)
+	at de.codecentric.boot.admin.client.registration.DefaultApplicationFactory.getServiceBaseUrl(DefaultApplicationFactory.java:104)
+	at de.codecentric.boot.admin.client.registration.ServletApplicationFactory.getServiceUrl(ServletApplicationFactory.java:62)
+	at de.codecentric.boot.admin.client.registration.ServletApplicationFactory.getManagementBaseUrl(ServletApplicationFactory.java:77)
+	at de.codecentric.boot.admin.client.registration.DefaultApplicationFactory.getHealthUrl(DefaultApplicationFactory.java:150)
+	at de.codecentric.boot.admin.client.registration.DefaultApplicationFactory.createApplication(DefaultApplicationFactory.java:75)
+	at de.codecentric.boot.admin.client.registration.ApplicationRegistrator.createApplication(ApplicationRegistrator.java:154)
+	at de.codecentric.boot.admin.client.registration.ApplicationRegistrator.register(ApplicationRegistrator.java:71)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+15:46:00.938 [Thread-6] INFO  o.s.s.c.ThreadPoolTaskScheduler - Shutting down ExecutorService
+15:46:00.939 [Thread-6] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+15:46:20.002 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 8484 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+15:46:20.003 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+15:46:20.837 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8768 (http)
+15:46:20.847 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8768"]
+15:46:20.853 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+15:46:20.853 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+15:46:20.933 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+15:46:20.933 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 901 ms
+15:46:21.272 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+15:46:21.483 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 15 endpoint(s) beneath base path '/actuator'
+15:46:21.517 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8768"]
+15:46:21.534 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8768 (http) with context path ''
+15:46:21.536 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.785 seconds (JVM running for 2.451)
+15:46:21.774 [RMI TCP Connection(2)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+15:46:21.774 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+15:46:21.780 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+15:55:07.435 [Thread-11] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+15:58:30.492 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 12980 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+15:58:30.493 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+15:58:31.355 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8768 (http)
+15:58:31.366 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8768"]
+15:58:31.373 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+15:58:31.373 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+15:58:31.455 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+15:58:31.455 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 935 ms
+15:58:31.808 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+15:58:32.022 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 15 endpoint(s) beneath base path '/actuator'
+15:58:32.058 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8768"]
+15:58:32.075 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8768 (http) with context path ''
+15:58:32.077 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.849 seconds (JVM running for 2.595)
+15:58:32.586 [RMI TCP Connection(4)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+15:58:32.586 [RMI TCP Connection(4)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+15:58:32.591 [RMI TCP Connection(4)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+15:59:56.680 [Thread-12] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+16:00:02.459 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 11612 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+16:00:02.461 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+16:00:03.295 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8769 (http)
+16:00:03.305 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8769"]
+16:00:03.311 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+16:00:03.312 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+16:00:03.392 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:00:03.392 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 903 ms
+16:00:03.743 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+16:00:03.958 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 15 endpoint(s) beneath base path '/actuator'
+16:00:03.994 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8769"]
+16:00:04.002 [main] ERROR o.apache.catalina.util.LifecycleBase - Failed to start component [Connector[HTTP/1.1-8769]]
+org.apache.catalina.LifecycleException: Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1008)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:227)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.addPreviouslyRemovedConnectors(TomcatWebServer.java:263)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:195)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.startWebServer(ServletWebServerApplicationContext.java:297)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:163)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:552)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:141)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:743)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:390)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:312)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1214)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1203)
+	at com.agan.springboot.springbootdemo.SpringBootDemoApplication.main(SpringBootDemoApplication.java:10)
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:433)
+	at sun.nio.ch.Net.bind(Net.java:425)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223)
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74)
+	at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:230)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:213)
+	at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1124)
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:1210)
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:585)
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1005)
+	... 14 common frames omitted
+16:00:04.006 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8769"]
+16:00:04.006 [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+16:00:04.010 [main] INFO  o.apache.catalina.util.LifecycleBase - The stop() method was called on component [StandardServer[-1]] after stop() had already been called. The second call will be ignored.
+16:00:04.010 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8769"]
+16:00:04.011 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8769"]
+16:00:04.012 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+16:00:04.016 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 8769 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 8769, or configure this application to listen on another port.
+
+16:00:04.018 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+16:00:21.606 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 744 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+16:00:21.608 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+16:00:22.431 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8768 (http)
+16:00:22.441 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8768"]
+16:00:22.446 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+16:00:22.447 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+16:00:22.523 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:00:22.524 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 890 ms
+16:00:22.856 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+16:00:23.063 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 15 endpoint(s) beneath base path '/actuator'
+16:00:23.097 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8768"]
+16:00:23.113 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8768 (http) with context path ''
+16:00:23.115 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.782 seconds (JVM running for 2.463)
+16:00:23.278 [RMI TCP Connection(4)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:00:23.278 [RMI TCP Connection(4)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+16:00:23.284 [RMI TCP Connection(4)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+16:04:32.145 [Thread-11] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+16:04:34.914 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 11696 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+16:04:34.916 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+16:04:35.737 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8768 (http)
+16:04:35.746 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8768"]
+16:04:35.752 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+16:04:35.752 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+16:04:35.824 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:04:35.825 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 881 ms
+16:04:36.146 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+16:04:36.366 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 15 endpoint(s) beneath base path '/actuator'
+16:04:36.400 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8768"]
+16:04:36.416 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8768 (http) with context path ''
+16:04:36.419 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.757 seconds (JVM running for 2.433)
+16:04:36.585 [RMI TCP Connection(5)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:04:36.585 [RMI TCP Connection(5)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+16:04:36.590 [RMI TCP Connection(5)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+16:17:47.714 [Thread-11] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+16:17:50.519 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 1472 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+16:17:50.521 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+16:17:51.354 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8768 (http)
+16:17:51.364 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8768"]
+16:17:51.370 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+16:17:51.371 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+16:17:51.450 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:17:51.450 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 901 ms
+16:17:51.802 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+16:17:52.010 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 15 endpoint(s) beneath base path '/actuator'
+16:17:52.045 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8768"]
+16:17:52.063 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8768 (http) with context path ''
+16:17:52.066 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.803 seconds (JVM running for 2.482)
+16:17:52.161 [Thread-11] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+16:18:04.756 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 14180 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+16:18:04.758 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+16:18:05.579 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8768 (http)
+16:18:05.589 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8768"]
+16:18:05.595 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+16:18:05.595 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+16:18:05.673 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:18:05.673 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 886 ms
+16:18:06.015 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+16:18:06.230 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 15 endpoint(s) beneath base path '/actuator'
+16:18:06.264 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8768"]
+16:18:06.281 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8768 (http) with context path ''
+16:18:06.283 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.78 seconds (JVM running for 2.431)
+16:18:06.465 [RMI TCP Connection(5)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:18:06.465 [RMI TCP Connection(5)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+16:18:06.471 [RMI TCP Connection(5)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+16:20:21.378 [Thread-11] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+16:20:24.161 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 9668 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+16:20:24.162 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+16:20:24.979 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8768 (http)
+16:20:24.989 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8768"]
+16:20:24.995 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+16:20:24.995 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+16:20:25.072 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:20:25.072 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 881 ms
+16:20:25.414 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+16:20:25.622 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 15 endpoint(s) beneath base path '/actuator'
+16:20:25.656 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8768"]
+16:20:25.673 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8768 (http) with context path ''
+16:20:25.675 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.765 seconds (JVM running for 2.431)
+16:20:25.843 [RMI TCP Connection(2)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:20:25.843 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+16:20:25.850 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+16:22:18.496 [Thread-11] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+16:22:21.325 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 5140 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+16:22:21.327 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+16:22:22.145 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8768 (http)
+16:22:22.155 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8768"]
+16:22:22.161 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+16:22:22.161 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+16:22:22.239 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:22:22.239 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 884 ms
+16:22:22.585 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+16:22:22.799 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 15 endpoint(s) beneath base path '/actuator'
+16:22:22.833 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8768"]
+16:22:22.849 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8768 (http) with context path ''
+16:22:22.852 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.777 seconds (JVM running for 2.476)
+16:22:22.969 [RMI TCP Connection(5)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:22:22.969 [RMI TCP Connection(5)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+16:22:22.974 [RMI TCP Connection(5)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+16:22:39.344 [Thread-11] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+16:22:42.131 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 4108 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+16:22:42.134 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+16:22:42.947 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8768 (http)
+16:22:42.957 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8768"]
+16:22:42.962 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+16:22:42.962 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+16:22:43.036 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:22:43.036 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 875 ms
+16:22:43.358 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+16:22:43.575 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 15 endpoint(s) beneath base path '/actuator'
+16:22:43.609 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8768"]
+16:22:43.626 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8768 (http) with context path ''
+16:22:43.628 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.745 seconds (JVM running for 2.429)
+16:22:43.797 [RMI TCP Connection(2)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:22:43.797 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+16:22:43.803 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+16:23:14.271 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 7460 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+16:23:14.273 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+16:23:15.090 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8768 (http)
+16:23:15.099 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8768"]
+16:23:15.105 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+16:23:15.105 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+16:23:15.179 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:23:15.179 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 878 ms
+16:23:15.500 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+16:23:15.716 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 15 endpoint(s) beneath base path '/actuator'
+16:23:15.750 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8768"]
+16:23:15.767 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8768 (http) with context path ''
+16:23:15.769 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.753 seconds (JVM running for 2.411)
+16:23:15.946 [RMI TCP Connection(2)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:23:15.946 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+16:23:15.952 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+16:27:32.387 [Thread-11] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+16:27:35.153 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 1476 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+16:27:35.155 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+16:27:35.989 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8768 (http)
+16:27:35.999 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8768"]
+16:27:36.005 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+16:27:36.005 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+16:27:36.086 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:27:36.086 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 903 ms
+16:28:07.886 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 15308 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+16:28:07.888 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+16:28:08.723 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8768 (http)
+16:28:08.733 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8768"]
+16:28:08.739 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+16:28:08.739 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+16:28:08.817 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:28:08.817 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 902 ms
+16:28:09.167 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+16:28:09.392 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+16:28:09.426 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8768"]
+16:28:09.443 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8768 (http) with context path ''
+16:28:09.446 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.814 seconds (JVM running for 2.471)
+16:28:09.557 [RMI TCP Connection(4)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:28:09.558 [RMI TCP Connection(4)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+16:28:09.563 [RMI TCP Connection(4)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+16:36:26.524 [Thread-11] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+16:36:29.345 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 4564 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+16:36:29.347 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+16:36:30.202 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8768 (http)
+16:36:30.211 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8768"]
+16:36:30.217 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+16:36:30.217 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+16:36:30.294 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:36:30.295 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 919 ms
+16:36:30.637 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+16:36:30.864 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+16:36:30.900 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8768"]
+16:36:30.918 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8768 (http) with context path ''
+16:36:30.921 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.841 seconds (JVM running for 2.519)
+16:36:31.007 [RMI TCP Connection(2)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:36:31.007 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+16:36:31.012 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+17:15:56.714 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 4740 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+17:15:56.730 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+17:15:57.619 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8768 (http)
+17:15:57.635 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8768"]
+17:15:57.641 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+17:15:57.641 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+17:15:58.299 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+17:15:58.299 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1553 ms
+17:15:58.627 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+17:15:58.846 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+17:15:58.877 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8768"]
+17:15:58.893 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8768 (http) with context path ''
+17:15:58.893 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 2.538 seconds (JVM running for 3.47)
+17:15:59.065 [RMI TCP Connection(4)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+17:15:59.065 [RMI TCP Connection(4)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+17:15:59.065 [RMI TCP Connection(4)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+17:16:37.721 [Thread-12] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+17:16:42.473 [main] INFO  c.a.s.s.SpringBootDemoApplication - Starting SpringBootDemoApplication on DESKTOP-SCMIHF6 with PID 7304 (E:\ideaDemoProject\spring-boot-demo\target\classes started by newer in E:\ideaDemoProject\spring-boot-demo)
+17:16:42.473 [main] INFO  c.a.s.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+17:16:43.285 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8768 (http)
+17:16:43.300 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8768"]
+17:16:43.300 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+17:16:43.300 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+17:16:43.379 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+17:16:43.379 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 875 ms
+17:16:43.707 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+17:16:43.925 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+17:16:43.961 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8768"]
+17:16:43.978 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8768 (http) with context path ''
+17:16:43.978 [main] INFO  c.a.s.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 1.755 seconds (JVM running for 2.468)
+17:16:44.290 [RMI TCP Connection(6)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+17:16:44.290 [RMI TCP Connection(6)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+17:16:44.290 [RMI TCP Connection(6)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
